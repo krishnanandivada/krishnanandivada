@@ -26,6 +26,6 @@ Other Tools: Power BI, Excel
 
 ### 🌾 Rice Leaf Disease Detection  
 CNN and Flask-based web app to detect rice leaf diseases  
-🔗 [GitHub Repo](https://github.com/your-username/rice-leaf-disease-detection)
+🔗 https://github.com/krishnanandivada/rice-leaf-disease-detection
 
 
